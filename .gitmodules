@@ -1,3 +1,6 @@
 [submodule "donet-server"]
 	path = donet-server
 	url = https://github.com/anirudhkovuru/donet-server
+[submodule "donet-android"]
+	path = donet-android
+	url = https://github.com/prateekalat/donet-android
